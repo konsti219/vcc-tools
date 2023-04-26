@@ -4,4 +4,4 @@ For easier browsing and installation visit the [GitHub Pages Site](https://konst
 
 ## Currently includes
 
-- Harmony Lib for VCC
+- [Harmony Lib for VCC](https://github.com/konsti219/Harmony-vpm)
