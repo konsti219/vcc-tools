@@ -5,3 +5,4 @@ For easier browsing and installation visit the [GitHub Pages Site](https://konst
 ## Currently includes
 
 - [Harmony Lib for VCC](https://github.com/konsti219/Harmony-vpm)
+- [Sub Asset Tool](https://github.com/konsti219/SubAssetTool-vpm)
